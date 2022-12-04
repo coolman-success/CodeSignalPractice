@@ -2,15 +2,17 @@ Given the string, check if it is a palindrome.
 
 ## Example
 
-- For inputString = "aabaa", the output should be
+- For `inputString = "aabaa"`, the output should be
 
-    solution(inputString) = true;
-- For inputString = "abac", the output should be
+    `solution(inputString) = true`;
 
-    solution(inputString) = false;
-- For inputString = "a", the output should be
+- For `inputString = "abac"`, the output should be
 
-    solution(inputString) = true.
+    `solution(inputString) = false`;
+
+- For `inputString = "a"`, the output should be
+
+    `solution(inputString) = true`.
 
 ## Input/Output
 
@@ -22,8 +24,8 @@ Given the string, check if it is a palindrome.
 
 	Guaranteed constraints:
 
-	1 ≤ inputString.length ≤ 105.
+	`1 ≤ inputString.length ≤ 105`.
 
 - **[output] boolean**
 
-	true if inputString is a palindrome, false otherwise.
+	`true` if `inputString` is a palindrome, `false` otherwise.
