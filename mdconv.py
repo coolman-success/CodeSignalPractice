@@ -13,9 +13,6 @@ f = open(mdfile[0], "r")
 lines = f.readlines()
 f.close()
 
-# remove blank lines
-lines = [line for line in lines if line != "\n"]
-
 # reformatting
 f_param = False
 for i, line in enumerate(lines):
@@ -33,7 +30,6 @@ for i, line in enumerate(lines):
 
 # write updated format markdown
 with open(mdfile[0], "w") as f:
-    for line in lines:
-        if line == "\t\n":
-            continue
-        f.write(line)
+    content = ''.join(lines)
+    content = re.sub(r"\n\n\n", "\n\n", content)
+    f.write(content)
