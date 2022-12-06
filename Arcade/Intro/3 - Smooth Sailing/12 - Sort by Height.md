@@ -12,7 +12,7 @@ For `a = [-1, 150, 190, 170, -1, -1, 160, 180]`, the output should be
 
 - **[input] array.integer a**
 
-	If `a[i] = -1`, then the `i<sup>th</sup>` position is occupied by a tree. Otherwise `a[i]` is the height of a person standing in the `i<sup>th</sup>` position.
+	If `a[i] = -1`, then the i<sup>th</sup> position is occupied by a tree. Otherwise `a[i]` is the height of a person standing in the i<sup>th</sup> position.
 
 	Guaranteed constraints:
 

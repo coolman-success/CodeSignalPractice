@@ -1,6 +1,6 @@
 Given a sequence of integers as an array, determine whether it is possible to obtain a strictly increasing sequence by removing no more than one element from the array.
 
-_Note_: sequence `a<sub>0</sub>`, `a<sub>1</sub>`, ..., `a<sub>n</sub>` is considered to be a strictly increasing if `a<sub>0</sub>` < `a<sub>1</sub>` < ... < `a<sub>n</sub>`. Sequence containing only one element is also considered to be strictly increasing.
+_Note_: sequence a<sub>0</sub>, a<sub>1</sub>, ..., a<sub>n</sub> is considered to be a strictly increasing if a<sub>0</sub> < a<sub>1</sub> < ... < a<sub>n</sub>. Sequence containing only one element is also considered to be strictly increasing.
 
 ## Example
 

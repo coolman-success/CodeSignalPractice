@@ -1,5 +1,6 @@
 import sys
 import re
+import os
 
 # get markdown file as parameter
 mdfile = [param for param in sys.argv if param[-3:] == ".md"]
@@ -29,7 +30,12 @@ for i, line in enumerate(lines):
         lines[i] = "\t" + line + "\n"
 
 # write updated format markdown
+title = os.path.basename(mdfile[0])
+title = os.path.splitext(title)[0]
+title = title.split(' - ')[1]
 with open(mdfile[0], "w") as f:
     content = ''.join(lines)
     content = re.sub(r"\n\n\n", "\n\n", content)
+    if f'# {title}\n\n' not in content:
+        content = f'# {title}\n\n' + content
     f.write(content)
