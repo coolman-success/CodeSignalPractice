@@ -22,7 +22,7 @@ Reverse the order of the bits in a given integer.
 
 	Guaranteed constraints:
 
-	`5 ≤ a ≤ 105`.
+	<code>5 ≤ a ≤ 10<sup>5</sup></code>.
 
 - **[output] intege**
 

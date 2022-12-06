@@ -26,7 +26,7 @@ Given the string, check if it is a palindrome.
 
 	Guaranteed constraints:
 
-	`1 ≤ inputString.length ≤ 105`.
+	<code>1 ≤ inputString.length ≤ 10<sup>5</sup></code>.
 
 - **[output] boolean**
 

@@ -26,7 +26,7 @@ You figured out that some numbers have a modified single digit in their binary r
 
 	Guaranteed constraints:
 
-	`0 ≤ n ≤ 231 - 1`.
+	<code>0 ≤ n ≤ 2<sup>31</sup> - 1</code>.
 
 - **[input] integer k**
 

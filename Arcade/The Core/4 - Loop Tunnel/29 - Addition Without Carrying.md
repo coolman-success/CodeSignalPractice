@@ -34,7 +34,7 @@ The child performs the following operations from right to left:
 
 	Guaranteed constraints:
 
-	`0 ≤ param1 < 105`.
+	<code>0 ≤ param1 < 10<sup>5</sup></code>.
 
 - **[input] integer param2**
 
@@ -42,7 +42,7 @@ The child performs the following operations from right to left:
 
 	Guaranteed constraints:
 
-	`0 ≤ param2 < 6 · 104`.
+	<code>0 ≤ param2 < 6 · 10<sup>4</sup></code>.
 
 - **[output] integer**
 

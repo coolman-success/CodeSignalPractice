@@ -24,7 +24,7 @@ A `1`-interesting polygon is just a square with a side of length `1`. An `n`-int
 
 	Guaranteed constraints:
 
-	`1 ≤ n < 104`.
+	<code>1 ≤ n < 10<sup>4</sup></code>.
 
 - **[output] integer**
 

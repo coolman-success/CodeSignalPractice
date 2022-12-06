@@ -2,7 +2,7 @@
 
 Given a sequence of integers as an array, determine whether it is possible to obtain a strictly increasing sequence by removing no more than one element from the array.
 
-_Note_: sequence <code>a<sub>0</sub></code>, <code>a<sub>1</sub></code>, ..., <code>a<sub>n</sub></code> is considered to be a strictly increasing if <code>a<sub>0</sub></code> < <code>a<sub>1</sub></code> < ... < <code>a<sub>n</sub></code>. Sequence containing only one element is also considered to be strictly increasing.
+_Note_: sequence <code>a<sub>0</sub></code>, <code>a<sub>1</sub></code>, ..., <code>a<sub>n</sub></code> is considered to be a strictly increasing if <code>a<sub>0</sub> < a<sub>1</sub> < ... < a<sub>n</sub></code>. Sequence containing only one element is also considered to be strictly increasing.
 
 ## Example
 
@@ -26,9 +26,9 @@ _Note_: sequence <code>a<sub>0</sub></code>, <code>a<sub>1</sub></code>, ..., <c
 
 	Guaranteed constraints:
 
-	`2 ≤ sequence.length ≤ 105`,
+	<code>2 ≤ sequence.length ≤ 10<sup>5</sup></code>,
 
-	`-105 ≤ sequence[i] ≤ 105`.
+	<code>-10<sup>5</sup> ≤ sequence[i] ≤ 10<sup>5</sup></code>.
 
 - **[output] boolean**
 

@@ -24,7 +24,7 @@ Given a ticket number `n`, determine if it's lucky or not.
 
 	Guaranteed constraints:
 
-	`10 ≤ n < 106`.
+	<code>10 ≤ n < 10<sup>6</sup></code>.
 
 - **[output] boolean**
 

@@ -20,7 +20,7 @@ There are just two ways to write `6` as `A + B`, where `2 ≤ A ≤ B ≤ 4`: `6
 
 	Guaranteed constraints:
 
-	`5 ≤ n ≤ 109`.
+	<code>5 ≤ n ≤ 10<sup>9</sup></code>.
 
 - **[input] integer l**
 
@@ -36,9 +36,9 @@ There are just two ways to write `6` as `A + B`, where `2 ≤ A ≤ B ≤ 4`: `6
 
 	Guaranteed constraints:
 
-	`l ≤ r ≤ 109`,
+	<code>l ≤ r ≤ 10<sup>9</sup></code>,
 
-	`r - l ≤ 106`.
+	<code>r - l ≤ 10<sup>6</sup></code>.
 
 - **[output] intege**
 

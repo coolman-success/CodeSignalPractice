@@ -22,7 +22,7 @@ Thus, the answer is <code>2<sup>3</sup> = 8</code>.
 
 	Guaranteed constraints:
 
-	`4 ≤ n ≤ 230`.
+	<code>4 ≤ n ≤ 2<sup>30</sup></code>.
 
 - **[output] intege**
 
