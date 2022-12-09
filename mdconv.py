@@ -27,6 +27,8 @@ for i, line in enumerate(lines):
     elif re.match(r"^(\[input\]|\[output\]|\[execution time limit\])\s", line, re.IGNORECASE):
         lines[i] = "- **" + line[:-1] + "**\n\n"
     elif f_param:
+        if line == 'Guaranteed constraints:\n':
+            line = '*Guaranteed constraints:*\n'
         lines[i] = "\t" + line + "\n"
 
 # write updated format markdown
