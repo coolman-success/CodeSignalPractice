@@ -30,5 +30,5 @@ Strings have `3` common characters - `2` "a"s and `1` "c".
 
 	`1 ≤ s2.length < 15`.
 
-- **[output] intege**
+- **[output] integer**
 

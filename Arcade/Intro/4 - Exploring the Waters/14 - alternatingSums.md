@@ -22,5 +22,5 @@ For `a = [50, 60, 60, 45, 70]`, the output should be
 
 	`45 ≤ a[i] ≤ 100`.
 
-- **[output] array.intege**
+- **[output] array.integer**
 

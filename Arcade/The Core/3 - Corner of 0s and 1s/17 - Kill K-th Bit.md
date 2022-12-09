@@ -36,5 +36,5 @@ You figured out that some numbers have a modified single digit in their binary r
 
 	`1 ≤ k ≤ 31`.
 
-- **[output] intege**
+- **[output] integer**
 

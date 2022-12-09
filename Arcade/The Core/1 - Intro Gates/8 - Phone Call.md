@@ -50,5 +50,5 @@ Thus, the longest call you can make is `1 + 9 + 4 = 14` minutes long.
 
 	`2 ≤ s ≤ 500`.
 
-- **[output] intege**
+- **[output] integer**
 

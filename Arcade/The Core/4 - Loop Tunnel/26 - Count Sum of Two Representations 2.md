@@ -40,5 +40,5 @@ There are just two ways to write `6` as `A + B`, where `2 ≤ A ≤ B ≤ 4`: `6
 
 	<code>r - l ≤ 10<sup>6</sup></code>.
 
-- **[output] intege**
+- **[output] integer**
 

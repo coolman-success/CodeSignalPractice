@@ -25,7 +25,7 @@ for i, line in enumerate(lines):
         lines[i] = "\n## Input/Output\n\n"
         f_param = True
     elif re.match(r"^(\[input\]|\[output\]|\[execution time limit\])\s", line, re.IGNORECASE):
-        lines[i] = "- **" + line[:-1] + "**\n\n"
+        lines[i] = "- **" + line.strip() + "**\n\n"
     elif f_param:
         if line == 'Guaranteed constraints:\n':
             line = '*Guaranteed constraints:*\n'

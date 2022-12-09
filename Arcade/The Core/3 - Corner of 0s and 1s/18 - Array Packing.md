@@ -32,5 +32,5 @@ After packing these into one number we get `00000000 01010101 00011000` (spaces 
 
 	`0 ≤ a[i] < 256`.
 
-- **[output] intege**
+- **[output] integer**
 

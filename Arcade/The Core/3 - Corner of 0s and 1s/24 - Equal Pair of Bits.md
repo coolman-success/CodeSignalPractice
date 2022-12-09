@@ -30,5 +30,5 @@ So the answer is <code>2<sup>1</sup> = 2</code>.
 
 	<code>0 ≤ m ≤ 2<sup>30</sup></code>.
 
-- **[output] intege**
+- **[output] integer**
 

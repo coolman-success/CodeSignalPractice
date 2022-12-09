@@ -32,5 +32,5 @@ For `inputArray = [1, 2, 1]`, `elemToReplace = 1`, and `substitutionElem = 3`, t
 
 	<code>0 ≤ substitutionElem ≤ 10<sup>9</sup></code>.
 
-- **[output] array.intege**
+- **[output] array.integer**
 

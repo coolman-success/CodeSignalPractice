@@ -34,5 +34,5 @@ You will cast your first marble and get `$2`, after which the numbers will becom
 
 	`0 ≤ n ≤ 5`.
 
-- **[output] intege**
+- **[output] integer**
 

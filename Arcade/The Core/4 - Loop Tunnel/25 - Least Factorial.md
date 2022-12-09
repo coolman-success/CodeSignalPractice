@@ -27,5 +27,5 @@ For `n = 17`, the output should be
 
 	`1 ≤ n ≤ 120`.
 
-- **[output] intege**
+- **[output] integer**
 

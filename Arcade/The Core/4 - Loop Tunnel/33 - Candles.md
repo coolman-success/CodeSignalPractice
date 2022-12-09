@@ -42,5 +42,5 @@ Thus, you can burn `5 + 2 + 1 + 1 = 9` solution, which is the answer.
 
 	`2 ≤ makeNew ≤ 5`.
 
-- **[output] intege**
+- **[output] integer**
 

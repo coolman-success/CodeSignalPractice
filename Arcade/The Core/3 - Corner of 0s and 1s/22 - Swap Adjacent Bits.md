@@ -28,5 +28,5 @@ You're given an arbitrary 32-bit integer `n`. Take its binary representation, sp
 
 	<code>0 ≤ n < 2<sup>30</sup></code>.
 
-- **[output] intege**
+- **[output] integer**
 

@@ -24,5 +24,5 @@ Reverse the order of the bits in a given integer.
 
 	<code>5 ≤ a ≤ 10<sup>5</sup></code>.
 
-- **[output] intege**
+- **[output] integer**
 

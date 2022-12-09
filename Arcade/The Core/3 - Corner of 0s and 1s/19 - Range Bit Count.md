@@ -26,5 +26,5 @@ Given `a = 2` and `b = 7` the array is: `[2, 3, 4, 5, 6, 7]`. Converting the num
 
 	`a ≤ b ≤ 10`.
 
-- **[output] intege**
+- **[output] integer**
 

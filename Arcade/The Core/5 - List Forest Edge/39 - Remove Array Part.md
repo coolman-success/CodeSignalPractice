@@ -36,5 +36,5 @@ For `inputArray = [2, 3, 2, 3, 4, 5]`, `l = 2`, and `r = 4`, the output should b
 
 	`l ≤ r < inputArray.length`.
 
-- **[output] array.intege**
+- **[output] array.integer**
 

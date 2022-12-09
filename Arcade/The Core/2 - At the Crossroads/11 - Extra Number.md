@@ -32,5 +32,5 @@ The two equal numbers are `a` and `c`. The third number (`b`) equals `7`, which 
 
 	<code>1 ≤ c ≤ 10<sup>9</sup></code>.
 
-- **[output] intege**
+- **[output] integer**
 

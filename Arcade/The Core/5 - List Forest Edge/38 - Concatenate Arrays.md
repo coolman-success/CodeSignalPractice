@@ -28,5 +28,5 @@ For `a = [2, 2, 1]` and `b = [10, 11]`, the output should be
 
 	`1 ≤ b[i] ≤ 15`.
 
-- **[output] array.intege**
+- **[output] array.integer**
 

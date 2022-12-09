@@ -20,5 +20,5 @@ For `size = 4`, the output should be
 
 	`1 ≤ size ≤ 1000`.
 
-- **[output] array.intege**
+- **[output] array.integer**
 

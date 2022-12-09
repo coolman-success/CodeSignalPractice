@@ -45,5 +45,5 @@ Return the value of <code>2<sup>position_of_the_found_bit</sup></code> (0-based)
 
 	`n ≠ m`.
 
-- **[output] intege**
+- **[output] integer**
 

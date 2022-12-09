@@ -30,5 +30,5 @@ For `n = 10` and `firstNumber = 2`, the output should be
 
 	`0 ≤ firstNumber ≤ n - 1`.
 
-- **[output] intege**
+- **[output] integer**
 
